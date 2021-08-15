@@ -1,1 +1,4 @@
 https://medium.com/swlh/jpa-entity-graphs-with-spring-boot-30cb110ba4f8
+
+https://www.mysqltutorial.org/mysql-sample-database.aspx
+
